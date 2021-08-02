@@ -1,3 +1,8 @@
+# Dimension wise mixup
+
+I mix-up the features not with convex combination but with dimensional way.
+randomly pick the dimension and change the value with target feature's value.
+
 # Mixup-CIFAR10
 By [Hongyi Zhang](http://web.mit.edu/~hongyiz/www/), [Moustapha Cisse](https://mine.kaust.edu.sa/Pages/cisse.aspx), [Yann Dauphin](http://dauphin.io/), [David Lopez-Paz](https://lopezpaz.org/).
 
